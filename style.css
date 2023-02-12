@@ -83,7 +83,7 @@ h3 {
     color: darkgray;
 }
 
-span {
+.span {
     margin-top: 35px;
 }
 
@@ -165,7 +165,7 @@ span {
         text-align: left;
     }
 
-    #arvore2 span {
+    .span {
         padding-left: 30px;
         padding-right: 30px;
         padding-top: 40px;
